@@ -27,6 +27,7 @@ This section and it's guides, will cover a wide variety of user experience desig
 
 [Boxes & Arrows](http://boxesandarrows.com)
 [Usabilla](http://blog.usabilla.com)
+[Reddit UX Design Community](https://www.reddit.com/r/userexperience/)
 
 #### Textbook for User Experience Design
  The Design of Everyday Things: Revised and Expanded Edition -> (Amazon)[https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=sr_1_1?ie=UTF8&qid=1538897807&sr=8-1&keywords=design+of+everyday+things]
